@@ -1,33 +1,41 @@
 # 🏡 Real Estate Homyz
 
-A modern real estate website built with **React**, **Vite**, and **Tailwind CSS**.  
-This project provides an elegant and responsive UI for browsing, filtering, and exploring real estate properties.
+A modern real estate web application built with **React + Vite + Tailwind CSS + Framer Motion**, designed to showcase property listings in a visually appealing and user-friendly way.  
+This project demonstrates responsive design, smooth animations, and a clean UI suitable for real estate businesses or property showcase platforms.
 
 🔗 **Live Demo**: [Real Estate Homyz](https://real-estate-homyz-pied.vercel.app/)
 
 ---
 
-## 📌 Features
-- 🏠 Browse real estate properties with a modern UI.  
-- 🔍 Search and filter properties easily.  
-- 📱 Fully responsive design for mobile, tablet, and desktop.  
-- ⚡ Built with **Vite** for faster development and performance.  
-- 🎨 Styled with **Tailwind CSS** for clean and customizable design.  
-- ⚙️ Component-based structure with **React**.  
+## 📺 Project Overview
+
+The website includes:
+- A modern **hero section** with animations  
+- Property listings with clean card-based design  
+- Smooth scrolling and transition effects  
+- Responsive design for desktop and mobile  
+- Interactive UI using **Framer Motion**
 
 ---
 
-## 📽️ Project Walkthrough
-This project was built by following [this YouTube tutorial](https://www.youtube.com/watch?v=edBx-fjgh4k&t=6129s).  
-The tutorial explains step by step how to set up a real estate application using React, Tailwind, and modern frontend practices.
+## 🚀 Features
+- ⚡ Built with **Vite** for fast performance  
+- 🎨 Styled with **Tailwind CSS** for utility-first design  
+- ✨ Animated with **Framer Motion**  
+- 📱 Fully responsive (mobile-first design)  
+- 🌐 Live deployed on **Vercel**
 
 ---
 
-## 🚀 Tech Stack
-- **Frontend**: React, Vite, Tailwind CSS  
-- **Deployment**: Vercel  
+## 🛠️ Tech Stack
+- **React** – UI framework  
+- **Vite** – Build tool for lightning-fast dev environment  
+- **Tailwind CSS** – Styling with modern utility classes  
+- **Framer Motion** – For animations and transitions  
+- **Vercel** – Hosting and deployment  
 
 ---
+
 
 ## 📂 Project Setup
 
